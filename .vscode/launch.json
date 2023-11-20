@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/bor3y/sorting_algorithms",
-      "program": "/home/bor3y/sorting_algorithms/build/Debug/outDebug",
+      "cwd": "/home/salahswefy/alx/sorting_algorithms",
+      "program": "/home/salahswefy/alx/sorting_algorithms/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
